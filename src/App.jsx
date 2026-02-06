@@ -171,7 +171,7 @@ function App() {
               🎂
             </motion.div>
             <motion.div
-              className="flex justify-center gap-2 mt-4"
+              className="flex justify-center items-center gap-2 mt-4"
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ delay: 1 }}
@@ -179,7 +179,7 @@ function App() {
               {[...Array(3)].map((_, i) => (
                 <motion.span
                   key={i}
-                  className="text-2xl"
+                  className="text-2xl inline-block"
                   animate={{
                     y: [0, -10, 0],
                     opacity: [1, 0.5, 1]
@@ -351,14 +351,14 @@ function App() {
             <AppreciationCard
               emoji="✨"
               title="Your Energy"
-              description="Your positive energy is absolutely magnetic. You bring life, excitement, and joy to every moment we share. Being around you feels like being wrapped in sunshine - warm, bright, and endlessly uplifting."
+              description="Your positive energy is absolutely magnetic. You bring life, excitement, and joy to every moment we share. Being around you feels like being wrapped in sunshine your so warm, bright, and endlessly uplifting."
               delay={0.3}
             />
 
             <AppreciationCard
               emoji="🌟"
               title="Your Authenticity"
-              description="You're genuinely yourself, and that's such a rare and beautiful gift. Your authenticity, your quirks, your unique perspective on life - everything about you is wonderfully, perfectly you."
+              description="You're genuinely yourself, and that's such a rare and beautiful gift. Your authenticity, your quirks, your unique perspective on life. Everything about you is wonderfully, perfectly you."
               delay={0.45}
             />
 
@@ -372,7 +372,7 @@ function App() {
             <AppreciationCard
               emoji="🎨"
               title="Your Uniqueness"
-              description="Everything about you is special - the way you think, the things you love, the dreams you chase. You bring color and beauty into the world simply by being who you are, and I'm so grateful to witness it."
+              description="Everything about you is soo special  the way you think, the things you love, the dreams you chase. You bring color and beauty into the world simply by being who you are, and I'm so grateful to witness it."
               delay={0.75}
             />
           </div>

@@ -13,8 +13,8 @@
 - [ ] (Optional) Replace photo placeholders with real images
 
 ### 2. Meta Tags & SEO
-- [ ] Update URLs in `/index.html`:
-  - Replace `https://yourwebsite.com/` with your actual URL (lines 20, 27, 28, 30)
+- [x] Update URLs in `/index.html`:
+  - Updated to `https://mon-cheri.vercel.app/` (lines 20, 27, 28, 30)
 - [ ] Add preview image to `/public/birthday-preview.jpg` (1200x630px recommended)
 - [ ] Update meta descriptions if desired
 
@@ -174,7 +174,8 @@ VITE_SPOTIFY_PLAYLIST_URL=https://open.spotify.com/embed/playlist/YOUR_ID
    - Follow DNS configuration instructions
 
 3. **Update meta tags**:
-   - Replace all `https://yourwebsite.com/` in `index.html` with your custom domain
+   - Current URL: `https://mon-cheri.vercel.app/`
+   - Replace with your custom domain if desired
 
 ---
 

@@ -72,7 +72,7 @@ const BirthdayLetter = () => {
                   transition={{ duration: 0.6, delay: 0.3 }}
                 >
                   <p className="first-letter:text-6xl first-letter:font-bold first-letter:text-pink-600 first-letter:float-left first-letter:mr-3 first-letter:font-playfair">
-                    Happy birthday to the most incredible person I know! Today isn't just another day on the calendar - it's a celebration of you, of everything you are, and everything you bring into this world. As I write this, my heart is full of joy knowing that I get to be part of your life and witness the beautiful person you continue to become. You deserve all the happiness, love, and magic that this special day brings.
+                    Happy birthday to the most incredible person I know! Today isn't just another day on the calendar. It's a celebration of you, of everything you are, and everything you bring into this world. As I write this, my heart is full of joy knowing that I get to be part of your life and witness the beautiful person you continue to become. You deserve all the happiness, love, and magic that this special day brings.
                   </p>
                 </motion.div>
 
@@ -84,7 +84,7 @@ const BirthdayLetter = () => {
                   transition={{ duration: 0.6, delay: 0.4 }}
                 >
                   <p>
-                    What makes you so incredibly wholesome and amazing is the way you exist in this world with such genuine authenticity. Your kindness isn't forced - it flows naturally from who you are. Your smile doesn't just light up a room; it creates warmth that stays with people long after you've gone. The way you care for others, the thoughtfulness in your actions, and the pure joy you find in life's simple moments - these are the qualities that make you extraordinary. You have this rare ability to make everyone around you feel valued, seen, and loved.
+                    What makes you so incredibly wholesome and amazing is the way you exist in this world with such genuine authenticity. Your kindness isn't forced, it flows naturally from who you are. Your smile doesn't just light up a room; it creates warmth that stays with people long after you've gone. The way you care for others, the thoughtfulness in your actions, and the pure joy you find in life's simple moments these are the qualities that make you extraordinary. You have this rare ability to make everyone around you feel valued, seen, and loved.
                   </p>
                 </motion.div>
 
@@ -108,7 +108,7 @@ const BirthdayLetter = () => {
                   transition={{ duration: 0.6, delay: 0.6 }}
                 >
                   <p>
-                    I am so incredibly grateful to be here celebrating this special day with you. These past four months since October 11th, 2025, have been nothing short of magical. Getting to know you, sharing moments both big and small, laughing until our sides hurt, and building these memories together - it's all been such a beautiful gift. Thank you for letting me be part of your journey, for trusting me with your heart, and for making every single day brighter just by being you.
+                    I am so incredibly grateful to be here celebrating this special day with you. These past four months since October 11th, 2025, have been nothing short of magical. Getting to know you, sharing moments both big and small, laughing until our sides hurt, and building these memories together. It's all been such a beautiful gift. Thank you for letting me be part of your journey, for trusting me with your heart, and for making every single day brighter just by being you.
                   </p>
                 </motion.div>
 
